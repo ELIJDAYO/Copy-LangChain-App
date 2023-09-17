@@ -1,0 +1,5 @@
+python -m venv .venv
+crtl+shift+p, select venv, then run main.py to auto activate, the (.venv) will appear in the console
+    you can now do pip install [pkg]
+
+touch .gitignore
