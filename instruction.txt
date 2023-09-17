@@ -3,3 +3,9 @@ crtl+shift+p, select venv, then run main.py to auto activate, the (.venv) will a
     you can now do pip install [pkg]
 
 touch .gitignore
+
+pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
+    you can check the dependencies at .venv
+
+to run streamlit app
+    streamlit run app.py
